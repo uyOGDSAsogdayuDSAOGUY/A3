@@ -3,3 +3,6 @@ No test .
 
 ---Phase 2: Draw Things---
 This method just paints a picture.
+
+---Phase 3a: Thing - Subclasses and polymorphism---
+Error . I did not convert variable.

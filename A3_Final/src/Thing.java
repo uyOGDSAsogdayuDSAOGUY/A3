@@ -31,6 +31,12 @@ public class Thing{
 	    StdDraw.picture(position.x, position.y,drawFile);
 	  }
     }
+	/*
+	 *Update method.This method does nothing for now. 
+	 */
+	public void update() {
+        
+    }
 	// Alternate way of assigning variables, using "this" keyword
 	public Thing(String name, String description){
 		this.name = name;
