@@ -35,7 +35,7 @@ public class Thing{
 	 *Update method.This method does nothing for now. 
 	 */
 	public void update() {
-        
+         
     }
 	// Alternate way of assigning variables, using "this" keyword
 	public Thing(String name, String description){
