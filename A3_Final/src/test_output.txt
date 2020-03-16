@@ -10,5 +10,11 @@ Error . I did not convert variable.
 ---Phase 3b: A Thing with a quantity---.  
 No test. No errors.
 
----Phase 4: ArrayLists ---
+---Phase 4: ArrayLists---
 Error . Problems with variables.
+
+---Phase 5: Movement---
+Error .
+
+---Phase 5b. The Player Controls---
+Error.

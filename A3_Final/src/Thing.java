@@ -58,5 +58,17 @@ public class Thing{
 	public void setDescription(String description){
 		this.description = description;
 	}
+	
+	//---Phase 5: Movement---
+	//new variables . 
+	private Vector2 destination; // destination variable. ---Phase 5: Movement---
+	public double movementSpeed = StdDraw.show(1/GameController.frameTime());// Distance to move per frame .  ---Phase 5: Movement---
+	/*
+	 * Set a new position for this object to move towards.
+	 */
+	public boolean setDestination(Vector2 position) {
+		
+	}
 
+	
 }

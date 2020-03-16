@@ -5,6 +5,7 @@ public class GameController {
 	// new variables. --- Phase 3a: Thing - Subclasses and polymorphism ---
 	 public static int counterSSS = 0 ; //counter variable.
 	 static ArrayList<Thing> allThings  = new ArrayList<Thing>(); //Array of all Things objects that I have created.
+	  public static int frameTime = 1/60; //Frame time .
 /*
  * Main method. --- Phase 3a: Thing - Subclasses and polymorphism ---
  */
