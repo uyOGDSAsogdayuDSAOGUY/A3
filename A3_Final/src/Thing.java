@@ -1,9 +1,17 @@
 // A Thing is an Object that can be carried by a Person or put in a Place. 
 public class Thing{
-
+	//new variables ---Phase 1---
+	private double value;	// value variable.
+	private double weight;  // weight variable.
 	// Instance variables. 
 	private String name; // Note: So far name must be set in Constructor
 	private String description;
+	/*
+	 * Method that return the weight. ---Phase 1---
+	 */
+	public double totalWeight(){
+	    return weight;
+	}
 
 	// Alternate way of assigning variables, using "this" keyword
 	public Thing(String name, String description){
