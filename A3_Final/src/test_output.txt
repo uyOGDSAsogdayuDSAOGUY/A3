@@ -1,2 +1,5 @@
 ---Phase 1---
 No test .
+
+---Phase 2: Draw Things---
+This method just paints a picture.
